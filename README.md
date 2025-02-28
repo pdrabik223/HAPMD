@@ -1,2 +1,2 @@
 # HAPMD
-Second approach to horizontal antenna patterm measureemnt device
+Second approach to horizontal antenna pattern measurement device
